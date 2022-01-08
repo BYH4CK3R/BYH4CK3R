@@ -1,0 +1,33 @@
+Evet Arkadaşlar Hoşgeldiniz:! 
+
+*Not:N/Y sorusu çıkarsa Her Zaman "Y" Harfine Basınız.
+
+•|pkg install git
+
+•|pkg install nano
+
+•|pkg install curl
+
+•|pkg install Python
+
+•|pkg install Python2
+
+•|pkg install Python3
+
+•|pkg install wget 
+
+•|git clone https://github.com/yamanekfar/Turk-Sploit
+
+•|ls
+
+•|cd Turk-Sploit
+
+•|ls
+
+•|bash requirements.sh
+
+•|la
+
+•|bash tst.sh
+
+~evet arkadaşlar program burdan sonra açılıyor gerisinde siz ne yapmak isterseniz onu yapabilirsiniz iyi günler :)
